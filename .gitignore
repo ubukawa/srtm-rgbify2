@@ -1,0 +1,4 @@
+src/*.tif
+mbtiles/*
+node_modules
+merge/*.tif
